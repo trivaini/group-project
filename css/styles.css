@@ -37,12 +37,8 @@ a {
         color: rgb(0,0,0);
 }
 ol {
-        list-style: none;
-        padding: 10;
-        margin-bottom: 10%;
-        font-size: 2em;
-        display: flex;
-        justify-content: space-evenly;
+		text-align:left;
+		color: gray;
 }
 li#lower {
         margin-top: 8%

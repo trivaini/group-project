@@ -23,7 +23,7 @@ h2 {
       margin: 0 auto;
         border-radius: 130px;
 }
-#page2 img {
+#page2 .img {
         padding: 10px;
         display: block;
         margin-left: auto;
@@ -48,7 +48,6 @@ li#lower {
 li#lowest {
         margin-bottom: 14%;
 }
-div.contrast {
 div.constrast {
         background-color: rgb(0,0,0);
         color: rgb(255,255,255);

@@ -17,11 +17,18 @@ h1 {
 h2 {
         font-size: 2.5em;
 }
-img {
-        display: flex;
+#page1 img {
+        display:flex;
         padding: 20px;
       margin: 0 auto;
         border-radius: 130px;
+}
+#page2 img {
+        padding: 10px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%
 }
 p {
         margin: 10vh 10vw;
